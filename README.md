@@ -1,12 +1,10 @@
 # MakerClubWebsite
 
 Welcome to the official website of the UAA Maker Club
-/play tada
 
 This website ~~contains~~ will contain projects from our members
 
 [https://egeozgul.github.io/MakerClubWebsite/](https://egeozgul.github.io/MakerClubWebsite/)
-/play 56k
 
 #### Sample Image:
 ![sample](/images/webpage.png)
@@ -20,4 +18,3 @@ This website ~~contains~~ will contain projects from our members
 Created by @egeozgul , @egemenertem , @mehmet-efe61
 
 Thanks to all of the members who contributed with their original projects. :smile: :+1:
-/play greatjob
