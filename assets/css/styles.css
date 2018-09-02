@@ -12,13 +12,7 @@
  * navigation changes.
 */
 
-body { padding-top: 70px;
-
-  display: block;
-    margin-left: auto;
-    margin-right: auto;
-  max-width: 650px;}
-
+body { padding-top: 70px; }
 
 
 
@@ -32,10 +26,8 @@ body { padding-top: 70px;
  * so that the container will not spread to the entire viewport.
 */
 
-.container-fluid {display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
+.container-fluid { max-width: 1200px; }
+
 
 
 /**
@@ -141,5 +133,5 @@ body { padding-top: 70px;
 	display: block;
     margin-left: auto;
     margin-right: auto;
-
+    width: 50%;
 }
