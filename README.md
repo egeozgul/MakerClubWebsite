@@ -2,7 +2,7 @@
 
 Welcome to the official website of the UAA Maker Club
 
-This website ~~contains~~ will contain projects from our members
+This website will contain projects from our members
 
 [https://egeozgul.github.io/MakerClubWebsite/](https://egeozgul.github.io/MakerClubWebsite/)
 
