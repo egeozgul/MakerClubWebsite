@@ -8,6 +8,7 @@ This website will contain projects from our members
 
 #### Sample Image:
 ![sample](/images/webpage.png)
+![sample](https://raw.githubusercontent.com/egeozgul/Maker-Club-Website/master/images/webpage.png)
 
 #### To-Do List:
 - [x] publish the website
